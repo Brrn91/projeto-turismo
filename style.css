@@ -32,13 +32,19 @@ body {
   font-weight: bold;
   color: #e1624f;
   text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: 36pt;
+  color: var(--text-primary);
 }
 
 img {
   height: 375px;
   object-fit: cover;
   /* Ajusta a proporção da imagem*/
-  margin-top: 44px;
+  margin-top: 40px;
   border-radius: 28px;
 }
 
@@ -54,8 +60,32 @@ img.foto1 {
   font-style: italic;
   /* Muda estilo da fonte para itálico */
   text-align: center;
-  color: #333333;
+  color: var(--text-secondary);
   margin-top: 24px;
+}
+
+h2 {
+  font-size: 32pt;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+p.legenda1 {
+  color: var(--text-secondary);
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 64px;
+}
+
+p.legenda {
+  color: var(--text-secondary);
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 48px;
+}
+
+ul li::marker {
+  color: #333333;
 }
 
 .divider {
