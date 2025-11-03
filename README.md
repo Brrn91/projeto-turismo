@@ -1,6 +1,6 @@
-# 👥 Projeto-Social  
+# 👥 Projeto-Turismo 
 
-Aplicação simples e responsiva que exibe uma **interface de site de redes sociais (clone ou mockup)**.  
+Aplicação simples e responsiva que exibe uma **Landing Page** de turismo utilizando apenas HTML e CSS. A página apresenta informações com destaque para locais turísticos, imagens atrativas e textos descritivos.
 Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura semântica, responsividade e boas práticas de estilização**.  
 
 ---
